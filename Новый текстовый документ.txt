@@ -1,0 +1,1 @@
+  public string info { get { return Name + " " + Surname + " " + Patronymic; } }
